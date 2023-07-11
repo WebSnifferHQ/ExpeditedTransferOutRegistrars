@@ -1,8 +1,8 @@
 # Expedited Transfer Out Registrars
 
-A list of domain registrars that allow expedited transfers out of domain names.
+A list of domain registrars that allow expedited outbound transfers of domain names.
 
-A domain name transfer from one registrar to another can take about 5-7 days to complete. Some registrars allo to expedite the transfer so the domain name transfers within a matter of hours instead of days by following some steps. Below is the list of such registrars as well as the description of the steps that you need to take.
+A domain name transfer from one registrar to another can take about 5-7 days to complete. Some registrars allow to expedite the transfer so the domain name transfers within a matter of hours instead of days by following some steps. Below is the list of such registrars as well as the description of the steps that you need to take.
 
 ## Name.com
 
