@@ -2,6 +2,11 @@
 
 A list of domain registrars that allow expedited transfers out of domain names.
 
+## Name.com
+
+Name.com explains how to expedite an outbound domain transfer in the article [Approve or expedite a domain transfer
+](https://www.name.com/support/articles/206103837-approve-or-expedite-a-domain-transfer).
+
 ## NameSilo
 
 NameSile describes how to expedite an outbound domain name transfer in their article [How to transfer away from NameSilo
