@@ -4,6 +4,14 @@ A list of domain name registrars with the capability to expedite outbound domain
 
 A domain name transfer from one registrar to another can take about 5-7 days to complete. Some registrars allow to expedite the transfer so the domain name transfers within a matter of hours instead of days by following some steps. Below is the list of such registrars as well as the description of the steps that you need to take.
 
+## Table of Contents
+
+- [Dynadot](#dynadot)
+- [Name.com](#namecom)
+- [NameSilo](#namesilo)
+- [Porkbun](#porkbun)
+- [Sav](#sav)
+
 ## Dynadot
 
 After you've initiated a domain transfer with the receiving registrar, Dynadot will send you an email with the subject "Transfer Away (order ########)". The email will consist the following text:
