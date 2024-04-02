@@ -6,15 +6,20 @@ A domain name transfer from one registrar to another can take about 5-7 days to 
 
 ## Table of Contents
 
+- [Cosmotown](#comsmotown)
 - [Dynadot](#dynadot)
 - [Name.com](#namecom)
 - [NameSilo](#namesilo)
 - [Porkbun](#porkbun)
 - [Sav](#sav)
 
+## Cosmotown
+
+After you've initiated a domain transfer with the receiving registrar, Cosmotown will send you an email with the subject "Action required: Your domain is transferring out of Cosmotown domain.name". The email will include the buttons: "Approve" and "Reject". To immidiately approve the transfer, click the "Approve" button. To reject the transfer, click the "Reject" button.
+
 ## Dynadot
 
-After you've initiated a domain transfer with the receiving registrar, Dynadot will send you an email with the subject "Transfer Away (order ########)". The email will consist the following text:
+After you've initiated a domain transfer with the receiving registrar, Dynadot will send you an email with the subject "Transfer Away (order ########)". The email will include the following text:
 
 ```
 Hey Dynadot Privacy Service,
