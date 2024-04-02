@@ -6,7 +6,7 @@ A domain name transfer from one registrar to another can take about 5-7 days to 
 
 ## Table of Contents
 
-- [Cosmotown](#comsmotown)
+- [Cosmotown](#cosmotown)
 - [Dynadot](#dynadot)
 - [Name.com](#namecom)
 - [NameSilo](#namesilo)
