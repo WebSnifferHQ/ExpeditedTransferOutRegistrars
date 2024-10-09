@@ -74,4 +74,4 @@ To transfer a domain away from Spaceship, you need to follow these steps: first,
 
 Once you've received the email, log into your Spaceship account and navigate to the "Domain List" section. Domains pending transfer will be marked with a "Transferring out" tag. Click on the domain, and in the "Transfer in Progress" window, you will see two options: "Cancel Transfer" and "Speed Up Transfer." Choose the "Speed Up Transfer" option. The domain will then be immediately removed from your domain list at Spaceship.
 
-<img src="images/spaceship.png">
+![Spaceship Domain List Page](images/spaceship.png)
