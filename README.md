@@ -22,12 +22,12 @@ To immediately approve the transfer, click the "Approve" button. To reject the t
 
 ## Dynadot
 
-After you've initiated a domain transfer with the receiving registrar, Dynadot will send you an email with the subject "Transfer Away (order ########)". The email will include the following text:
+After you've initiated a domain transfer with the receiving registrar, Dynadot will send you an email with the subject "Transfer Away (order ########)." The email will contain the following text:
 
 ```
-Hey Dynadot Privacy Service,
+Hey [username],
 
-Today, we received notification that you’d like to transfer example.com to another domain name registrar : [receiving registrar].
+Today, we received notification that you’d like to transfer example.com to another domain name registrar: [receiving registrar].
 
 Please use the following button to AUTHORIZE or CANCEL the domain transfer within five (5) days of this message:
 
@@ -37,15 +37,15 @@ NOTE: If you don’t respond, the transfer will automatically be approved after 
 
 If you didn’t request the transfer away of this domain, please let us know at info at dynadot dot com.
 
-All the best,
+All the best,  
 Dynadot
 ```
 
-Just follow the link from the email: https://www.dynadot.com/account/domain/transfer/out.html. The "Transfer Out Domains" page will open.
+To approve the transfer, simply follow the link in the email: [https://www.dynadot.com/account/domain/transfer/out.html](https://www.dynadot.com/account/domain/transfer/out.html). This will take you to the "Transfer Out Domains" page.
 
-<img src="images/dynadot.png">
+![Dynadot Transfer Page](images/dynadot.png)
 
-The "Order Status" of the domain will be indicated as "Processing. Requires Acknowledgement For The Transfer Request". In the "Allow" column for the domain in question there will be two options: Yes and No. Just click the button with the "Yes" option. Afterwards you should breifly see the message "Transfer has been accepted", what means that your transfer approval has been successful.
+The "Order Status" for the domain will display as "Processing. Requires Acknowledgement For The Transfer Request." In the "Allow" column for the domain, you'll see two options: Yes and No. Click the "Yes" button. Afterward, you should briefly see the message "Transfer has been accepted," confirming that your transfer approval was successful.
 
 ## Name.com
 
@@ -74,4 +74,4 @@ To transfer a domain away from Spaceship, you need to follow these steps: first,
 
 Once you've received the email, log into your Spaceship account and navigate to the "Domain List" section. Domains pending transfer will be marked with a "Transferring out" tag. Click on the domain, and in the "Transfer in Progress" window, you will see two options: "Cancel Transfer" and "Speed Up Transfer." Choose the "Speed Up Transfer" option. The domain will then be immediately removed from your domain list at Spaceship.
 
-<img src="images/spaceship.png">
+![Spaceship Domain List Page](images/spaceship.png)
