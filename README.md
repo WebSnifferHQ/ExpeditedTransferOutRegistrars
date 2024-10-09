@@ -1,8 +1,8 @@
 # Expedited Transfer Out Registrars
 
-A list of domain name registrars with the capability to expedite outbound domain transfers. 
+A list of domain name registrars that offer the ability to expedite outbound domain transfers.
 
-A domain name transfer from one registrar to another can take about 5-7 days to complete. Some registrars allow to expedite the transfer so the domain name transfers within a matter of hours instead of days by following some steps. Below is the list of such registrars as well as the description of the steps that you need to take.
+Typically, a domain transfer between registrars can take 5-7 days to complete. However, some registrars allow you to expedite the transfer, reducing the process to just a few hours by following certain steps. Below is a list of such registrars, along with a description of the steps required to expedite the transfer.
 
 ## Table of Contents
 
@@ -16,7 +16,9 @@ A domain name transfer from one registrar to another can take about 5-7 days to 
 
 ## Cosmotown
 
-After you've initiated a domain transfer with the receiving registrar, Cosmotown will send you an email with the subject "Action required: Your domain is transferring out of Cosmotown domain.name". The email will include the buttons: "Approve" and "Reject". To immidiately approve the transfer, click the "Approve" button. To reject the transfer, click the "Reject" button.
+After you've initiated a domain transfer with the receiving registrar, Cosmotown will send you an email with the subject "Action required: Your domain is transferring out of Cosmotown domain.name." The email will include two buttons: "Approve" and "Reject." 
+
+To immediately approve the transfer, click the "Approve" button. To reject the transfer, click the "Reject" button.
 
 ## Dynadot
 
