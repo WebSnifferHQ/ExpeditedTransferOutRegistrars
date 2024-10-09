@@ -12,6 +12,7 @@ A domain name transfer from one registrar to another can take about 5-7 days to 
 - [NameSilo](#namesilo)
 - [Porkbun](#porkbun)
 - [Sav](#sav)
+- [Spaceship](#spaceship)
 
 ## Cosmotown
 
@@ -62,3 +63,9 @@ Porkbun supports expedited outbound domain transfers. Read the details in their 
 ## Sav
 
 Once you receive an email from Sav with the subject "Domain Transfer Out Started", go to the domain details of the domain in question in your Sav "My Domains" panel and click the "Approve" link near the "Pending Transfer" status of the domain. Sav has a support article called [Transferring a Domain Away from Sav](https://help.sav.com/hc/en-us/articles/11932938198171-Transferring-a-Domain-Away-from-Sav), but it doesn't mention the option to expedite a domain transfer.
+
+## Spaceship
+
+To transfer a domain away from Spaceship, you need to follow these steps: first, unlock the domain, retrieve its authorization code from Spaceship, and then initiate the transfer with the receiving registrar. It may take anywhere from a few minutes to a few hours to receive an email from Spaceship with the subject "Confirmation of Registrar Transfer Request." You will receive one such email for each domain being transferred out.
+
+Once you've received the email, log into your Spaceship account and navigate to the "Domain List" section. Domains pending transfer will be marked with a "Transferring out" tag. Click on the domain, and in the "Transfer in Progress" window, you will see two options: "Cancel Transfer" and "Speed Up Transfer." Choose the "Speed Up Transfer" option. The domain will then be immediately removed from your domain list at Spaceship.
