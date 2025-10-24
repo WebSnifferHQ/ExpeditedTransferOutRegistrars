@@ -11,7 +11,6 @@ Typically, a domain transfer between registrars can take 5-7 days to complete. H
 - [Name.com](#namecom)
 - [NameSilo](#namesilo)
 - [Porkbun](#porkbun)
-- [Sav](#sav)
 - [Spaceship](#spaceship)
 
 ## Cosmotown
@@ -61,12 +60,6 @@ NameSile describes how to expedite an outbound domain name transfer in their art
 
 Porkbun supports expedited outbound domain transfers. Read the details in their article [How to approve an outbound transfer from Porkbun
 ](https://kb.porkbun.com/article/139-how-to-approve-an-outbound-transfer-from-porkbun).
-
-## Sav
-
-Once you receive an email from Sav with the subject "Domain Transfer Out Started," navigate to the domain details of the relevant domain in your Sav "My Domains" panel. Click the "Approve" link next to the "Pending Transfer" status of the domain. 
-
-Sav has a support article titled [Transferring a Domain Away from Sav](https://help.sav.com/hc/en-us/articles/11932938198171-Transferring-a-Domain-Away-from-Sav), but it does not mention the option to expedite a domain transfer.
 
 ## Spaceship
 
